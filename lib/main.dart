@@ -54,7 +54,7 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
              Text(
               ' Red & White',style: TextStyle(color: Colors.red,
-                 fontSize: 45,decoration: TextDecoration.underline,
+                 fontSize: 50,decoration: TextDecoration.underline,
                  decorationStyle: TextDecorationStyle.double,
                  wordSpacing: 2,decorationColor: Colors.amber,),
             ),
